@@ -1,4 +1,4 @@
 title: 김태윤의 블로그
-description: Jeky11 기반 Github 블로그입니다
-theme: jek11-theme-minimal
-author: 김태윤 
+description: 성장하는 개발자의 기록
+theme: jekyll-theme-minimal  # ← 이 부분 철자 정확히!
+author: 김태윤
