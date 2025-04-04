@@ -4,5 +4,6 @@ theme: jekyll-theme-chirpy
 lang: ko
 timezone: Asia/Seoul
 url: "https://taeyunlab.github.io"
-baseurl: ""
+baseurl: "/taeyun.github.io"
 author: 김태윤
+ 
